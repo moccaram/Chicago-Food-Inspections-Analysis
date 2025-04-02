@@ -9,11 +9,11 @@ This project analyzes food inspection data from Chicago to identify trends, viol
 - Analyze the relationship between risk categories and failure rates.  
 - Build an interactive Power BI dashboard to visualize key insights.  
 
-## Data Source  
-- **Dataset**: Chicago Food Inspections Data  
-- **Source**: Chicago Department of Public Health (Data Portal)  
-- **Time Period**: 2010 - Present  
-- **Update Frequency**: Weekly  
+## Data Source
+- **Dataset:** [Chicago Food Inspections Data](https://data.cityofchicago.org/Health-Human-Services/Food-Inspections/4ijn-s7e5/about_data)
+- **Source:** Chicago Department of Public Health
+- **Time Period:** 2010 - Present
+- **Update Frequency:** Weekly 
 
 ## Tools & Technologies  
 - **Power BI** – Dashboard & Data Visualization  
