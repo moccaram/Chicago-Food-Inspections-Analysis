@@ -1,2 +1,2 @@
-notebooks/* linguist-detectable=false
+*.ipynb linguist-detectable=true
 *.sql linguist-detectable=true
