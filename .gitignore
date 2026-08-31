@@ -1,5 +1,4 @@
 data/raw/
-.venv/
-venv/
-*.csv
-data/
+data/processed/fact_inspection_violations.csv
+data/processed/inspections_clean.csv
+data/processed/violations_long.csv
